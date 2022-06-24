@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  margin: 20px;
+  padding-bottom: 20px;
+  gap: 20px;
+  flex-flow: row wrap;
+}
+
+.heading {
+  margin:10px;
+  padding-bottom: 10px;
+}
+
+

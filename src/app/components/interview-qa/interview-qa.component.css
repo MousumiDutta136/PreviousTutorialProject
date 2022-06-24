@@ -1,0 +1,21 @@
+
+div button {
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+
+button {
+    background-color: rgb(221, 221, 221);
+}
+    button:hover {
+        background-color: rgb(50, 124, 39);
+    
+}
+
+.button-container {
+    width: 300px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}

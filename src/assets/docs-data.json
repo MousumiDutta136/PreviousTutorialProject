@@ -1,0 +1,35 @@
+[
+{
+  "name":"topic1", "desc":"Generally, the practice of setting a variable or property to a data value.", "moredet": "https://angular.io/guide/glossary#binding"
+},
+{
+  "name": "topic2", "desc": "A way to initialize and launch an application or system.In Angular, the AppModule root NgModule of an application has a bootstrap property that identifies the top-level components of the application. ", "moredet": ""
+},
+{
+  "name": "topic3", "desc": "", "moredet": ""
+},
+{
+  "name": "topic4", "desc": "", "moredet": ""
+},
+{
+  "name": "topic5", "desc": "", "moredet": ""
+},
+{
+  "name": "topic6", "desc": "", "moredet": ""
+},
+{
+  "name": "topic7", "desc": "", "moredet": ""
+},
+
+{
+  "name": "topic8", "desc": "", "moredet": ""
+},
+{
+  "name": "topic9", "desc": "", "moredet": ""
+},
+{
+  "name": "topic10", "desc": "", "moredet": ""
+}
+
+
+]

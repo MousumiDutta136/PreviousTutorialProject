@@ -1,0 +1,46 @@
+.container {
+    padding: 12px 0px 0px 12px;
+    display: flex;
+    background: #004a79;
+    color: white;
+    border-bottom: 3px solid rgba(0,0,0, 0.1);
+
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 5px;
+    display: inline;
+    color: black;
+}
+a {
+    padding: 8px;
+    height: 12px;
+    cursor: pointer;
+    text-decoration: none;
+    color:inherit
+}
+
+a:hover {
+    color: black;
+}
+div button {
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+
+button {
+    background-color: rgb(221, 221, 221);
+}
+    button:hover {
+        background-color: rgb(50, 124, 39);
+
+}
+
+.button-container {
+    width: 300px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}

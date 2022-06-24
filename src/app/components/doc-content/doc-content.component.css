@@ -1,0 +1,20 @@
+.container {
+  width: 1000px;
+  flex-grow: 1;
+  padding: 30px;
+  background-color: lightcyan;
+}
+
+.topic {
+  height: 100px;
+}
+
+.example-card {
+  width: 860px;
+  height: 130px;
+  padding: 10px 20px 20px;
+  border: 1px  black;
+  box-shadow: 1px 1px 9px 0px;
+  flex-grow: 1;
+}
+

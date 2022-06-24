@@ -1,0 +1,18 @@
+.container {
+  padding: 20px;
+  width: 200px;
+  height: 100vh;
+
+}
+
+a {
+  margin-bottom: 40px;
+
+  display: block;
+}
+
+.title {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  width: 100px;
+}

@@ -1,0 +1,16 @@
+
+<mat-card class="example-card">
+  <mat-card-header>
+    <h2>{{ book.name }}</h2>
+  </mat-card-header>
+
+  <img mat-card-image [src]="book.image" alt="">
+
+  <mat-card-content>
+    <h3>{{ book.price }}</h3>
+  </mat-card-content>
+
+  <mat-card-content>
+      <a href = {{book.link}} target="_blank">Link to Purchase</a>
+    </mat-card-content>
+</mat-card>
